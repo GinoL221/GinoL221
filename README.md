@@ -29,7 +29,7 @@ Los administradores gestionan alojamientos e imágenes.
 
 > **Tecnologías:** React, Spring Boot, JWT, JPA, MySQL
 
-> > 🧠 Este proyecto fue desarrollado como parte del proyecto final del programa **Certified Tech Developer** de Digital House y Mercado Libre.
+>  🧠 Este proyecto fue desarrollado como parte del proyecto final del programa **Certified Tech Developer** de Digital House y Mercado Libre.
 
 ---
 
